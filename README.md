@@ -1,2 +1,2 @@
 # ninja
-the first repo
+first repo
