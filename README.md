@@ -1,0 +1,2 @@
+# ninja
+the first repo
